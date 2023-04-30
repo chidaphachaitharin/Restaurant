@@ -40,7 +40,7 @@ body {
 .logo {
     width: 9rem;
     cursor: pointer;
-    margin-left: 20rem;
+    margin-left: 18rem;
     margin-top: 1rem;
     margin-bottom: 1rem;
 }
@@ -472,7 +472,7 @@ navmenu ul li a:hover {
 .contact_container {
     display: grid;
     grid-template-columns: 40% 60%;
-    padding: 1rem 0 0 0;
+    padding: 1rem 0 1rem 0;
 }
 
 .contact_start {
